@@ -1,28 +1,27 @@
 # Hi 👋 I'm Lohitha Sri
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&width=500&lines=CSE+Student;AI+%26+ML+Enthusiast;Python+Developer;Learning+DSA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student;Python+Developer;AI+%26+ML+Enthusiast;Learning+DSA+%26+Competitive+Programming" />
+
+---
 
 ## 👩‍💻 About Me
 
-I'm Lohitha Sri, a Computer Science Engineering student passionate about
-Artificial Intelligence, Data Science and Software Development.
+```yaml
+name: "Lohitha Sri"
+role: "Computer Science Engineering Student"
+education: "B.Tech CSE"
+location: "India 🇮🇳"
 
-🎓 CSE Student  
-🤖 AI / ML Enthusiast  
-💻 Learning Data Structures & Algorithms  
-🚀 Exploring Open Source
+currently_learning:
+  - Data Structures & Algorithms
+  - Competitive Programming
+  - Python Development
+  - Artificial Intelligence
+  - Machine Learning
 
+coding_platforms:
+  - CodeChef (Regular Practice)
+  - GeeksforGeeks
 
-## 🛠️ Tech Arsenal
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,git,github,vscode,mysql" />
-
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=LOHITHA-SRI4517&show_icons=true&theme=tokyonight" />
-
-
-## 🔥 GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LOHITHA-SRI4517&theme=tokyonight" />
+goal:
+  "Become a skilled Software Engineer and contribute to Open Source 🚀"
