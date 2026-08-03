@@ -1,249 +1,316 @@
-<h1 align="center">Hi 👋, I'm Lohitha Sri</h1>
+<h1 align="center">
+  Hi 👋 I'm Lohitha Sri
+</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & ML Enthusiast | Python Developer | Problem Solver
+Computer Science Engineering Student • Data Analytics Enthusiast • Python Developer • Building Data-Driven Projects 🚀
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Power+BI+Enthusiast;Data+Structures+%26+Algorithms;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;Python+Developer;Power+BI+Enthusiast;Data+Visualization+Learner;Always+Learning+New+Things+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=LOHITHA-SRI4517&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/LOHITHA-SRI4517?label=Followers&style=social"/>
+
+<img src="https://komarev.com/ghpvc/?username=LOHITHA-SRI4517&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/LOHITHA-SRI4517?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/LOHITHA-SRI4517?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
+
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student at **Aditya University**
+<img align="right" width="330" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Software Development, and Data Analytics**
+🎓 Computer Science Engineering Student at **Aditya University**
 
-💻 I enjoy building practical projects, solving programming problems, and continuously improving my technical skills.
+📊 Passionate about:
 
-🌱 Currently Learning
+- Data Analytics
+- Python Development
+- Data Visualization
+- Business Intelligence
+- Software Engineering
+
+💡 I enjoy analyzing data, finding meaningful insights, and building practical projects that solve real-world problems.
+
+🌱 Currently Learning:
 
 - Python
 - Java
-- Machine Learning
 - Data Structures & Algorithms
-- Database Management Systems
+- NumPy & Pandas
+- SQL & DBMS
 - Power BI
+- Data Visualization
+
 
 🎯 **Career Goal**
 
-To become a skilled Software Engineer specializing in Artificial Intelligence and Machine Learning while building impactful real-world applications.
+Become a Data Analyst / Data Scientist and create impactful data-driven solutions.
+
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Programming Languages
+
+## 💻 Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+
 </p>
 
-### 🗄 Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+## 📊 Data Analytics
 
-### ⚙ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-### 📚 Core Skills
-
-- Artificial Intelligence
-- Machine Learning (Learning)
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
+- NumPy
+- Pandas
+- Matplotlib
+- Excel
 - Power BI
-- Problem Solving
+- Data Visualization
 
----
 
-# 🚀 Featured Projects
+## 🌐 Web Technologies
 
-<p align="center">
+<p>
 
-<a href="https://github.com/LOHITHA-SRI4517/lohitha.github.io">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=lohitha.github.io&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/LOHITHA-SRI4517/pizza-sales-">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=pizza-sales-&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
 </p>
 
-<p align="center">
 
-<a href="https://github.com/LOHITHA-SRI4517/marks_dashboard-project">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=marks_dashboard-project&theme=tokyonight&hide_border=true"/>
-</a>
+## 🗄 Database
 
-<a href="https://github.com/LOHITHA-SRI4517/NUMBER-GUESSING-GAME">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=NUMBER-GUESSING-GAME&theme=tokyonight&hide_border=true"/>
-</a>
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
-<div align="center">
 
-💡 *More AI, Machine Learning, Python and Data Analytics projects coming soon.*
+## 🛠 Tools
 
-</div>
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
 
 ---
 
 # 🏆 Certifications
 
-- 🏅 Agile Software Engineering — Coursera × Aditya University
-- 🏅 AI & ML Engineering with Generative AI
-- 🏅 Cisco C Programming
-- 🏅 Cisco Python
-- 🏅 Cisco DevNet (DSA for DeepTech)
-- 🏅 Microsoft Learn – Power BI Dashboard Building
-- 🏅 Infosys Springboard – DBMS
-- 🏅 Infosys Springboard – Excel
-- 🏅 Naukri NCAT Aptitude Assessment
+✅ Cisco Python Essentials  
+
+✅ Cisco C Programming  
+
+✅ Cisco DevNet  
+
+✅ Agile Software Development – Coursera  
+
+✅ Microsoft Learn – Power BI  
+
+✅ Infosys Springboard – DBMS  
+
+✅ Infosys Springboard – Excel  
+
 
 ---
 
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
+
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LOHITHA-SRI4517&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHITHA-SRI4517&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/LOHITHA-SRI4517/pizza-sales-">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=pizza-sales-&theme=tokyonight"/>
+
+</a>
+
+
+<a href="https://github.com/LOHITHA-SRI4517/marks_dashboard-project">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=marks_dashboard-project&theme=tokyonight"/>
+
+</a>
+
+
+<a href="https://github.com/LOHITHA-SRI4517/NUMBER-GUESSING-GAME">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=LOHITHA-SRI4517&repo=NUMBER-GUESSING-GAME&theme=tokyonight"/>
+
+</a>
+
 
 </p>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LOHITHA-SRI4517&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOHITHA-SRI4517&layout=compact&theme=tokyonight"/>
+
+</p>
+
 
 ---
 
 # 🔥 GitHub Streak
 
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LOHITHA-SRI4517&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LOHITHA-SRI4517&theme=tokyonight"/>
 
 </p>
+
 
 ---
 
 # 📈 Contribution Graph
 
+
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOHITHA-SRI4517&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LOHITHA-SRI4517&theme=tokyo-night"/>
 
 </p>
+
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LOHITHA-SRI4517&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📋 GitHub Summary
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LOHITHA-SRI4517&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LOHITHA-SRI4517&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
-<p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LOHITHA-SRI4517&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LOHITHA-SRI4517&theme=tokyonight"/>
-
-</p>
 
 ---
 
 # 💻 Coding Profiles
 
+
 <p align="center">
 
-<a href="https://leetcode.com/u/zostqaeA43/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/mallarapupkv9/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
 <a href="https://www.codechef.com/users/lohitha_sri45">
+
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
 </a>
+
+
+<a href="https://leetcode.com/u/zostqaeA43/">
+
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+
+<a href="https://www.geeksforgeeks.org/profile/mallarapupkv9/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
 
 <a href="https://www.hackerrank.com/profile/mallarapulohitha">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+
 </a>
+
 
 </p>
 
+
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect With Me
+
 
 <p align="center">
+
 
 <a href="https://www.linkedin.com/in/lohitha-sri-mallarapu-773905372/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
+
 
 <a href="mailto:mallarapulohitha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
 </a>
+
 
 <a href="https://github.com/LOHITHA-SRI4517">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
-</p>
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build impactful AI & Machine Learning projects
-- 📚 Master Data Structures & Algorithms
-- 💻 Solve coding challenges consistently
-- 📊 Create more Power BI dashboards
-- 🤝 Contribute to Open Source
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-> **"The expert in anything was once a beginner who never stopped learning."**
 
 </p>
 
+
 ---
 
-<p align="center">
+# 🎯 2026 Goals
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+📊 Build Data Analytics Projects  
 
-</p>
+📈 Create Power BI Dashboards  
+
+🐍 Improve Python & Data Analysis Skills  
+
+🌍 Contribute to Open Source  
+
+📚 Master Data Structures & Algorithms  
+
+💻 Solve 500+ Coding Problems  
+
+🏆 Earn More Technical Certifications  
+
+
+---
+
+# 💡 Developer Quote
+
+> **"Success is built one commit at a time."**
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Keep learning, keep analyzing, and keep building solutions with data."* 🚀
+
+</div>
